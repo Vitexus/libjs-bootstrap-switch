@@ -1,0 +1,7 @@
+libjs-twitter-bootstrap-switch (3.0.2-5) UNRELEASED; urgency=low
+
+  [ Vítězslav Vitex Dvořák ]
+  * Initial packaging of to 3.0
+
+
+ -- Vítězslav Vitex Dvořák <vitex@hippy.cz>  Wed, 03 Sep 2014 00:26:17 +0200

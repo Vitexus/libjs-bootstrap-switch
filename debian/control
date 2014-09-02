@@ -1,0 +1,16 @@
+Source: libjs-twitter-bootstrap-switch
+Build-Depends: debhelper (>= 7.0.50~), yui-compressor
+Standards-Version: 3.8.4
+Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
+Uploaders: Vitex <vitex@hippy.cz>
+Priority: optional
+Homepage: http://www.bootstrap-switch.org/
+
+Package: libjs-twitter-bootstrap-switch
+Architecture: all
+Depends: ${misc:Depends},libjs-twitter-bootstrap (>= 3.0)
+Suggests: libjs-fuelux
+Section: web
+Description: Turn checkboxes and radio buttons in toggle switches.
+ Addition JS/CSS widget using Twitter Bootstrap css/js framework
+

@@ -1,0 +1,11 @@
+Package: libjs-twitter-bootstrap-switch
+Version: 3.0.2-5
+Architecture: all
+Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
+Installed-Size: 88
+Depends: libjs-twitter-bootstrap (>= 3.0)
+Suggests: libjs-fuelux
+Section: web
+Priority: optional
+Homepage: http://www.bootstrap-switch.org/
+Description: Fuel UX extends Bootstrap with additional lightweight JavaScript controls for your web applications.
