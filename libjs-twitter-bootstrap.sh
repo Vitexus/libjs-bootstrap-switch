@@ -8,6 +8,7 @@ else
     git pull
 fi
 
+BULID=5
 VERSION=`cat package.json | grep '"version":' | awk -F '"'  '{ print $4 }'`
 #CHANGES=`cat CHANGELOG.md | awk -vRS="##" 'NR<=2' ORS="##" | grep -v "##"`
 #tar -czf ~/Projects/Packaging/libjs-twitter-bootstrap/libjs-twitter-bootstrap_$VERSION.orig.tar.gz .
@@ -15,7 +16,7 @@ VERSION=`cat package.json | grep '"version":' | awk -F '"'  '{ print $4 }'`
 
 cd ..
 
-dch -v $VERSION-5 --package libjs-twitter-bootstrap-switch 
+dch -v $VERSION-$BUILD --package libjs-twitter-bootstrap-switch 
 
 debuild -i -us -uc -b
 
