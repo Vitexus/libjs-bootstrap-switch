@@ -8,7 +8,12 @@ else
     git pull
 fi
 
-BULID=5
+if [ -e "../build" ]; then
+  BUILD=`cat  ../build | perl -ne 'chomp; print join(".", splice(@{[split/\./,$_]}, 0, -1), map {++$_} pop @{[split/\./,$_]}), "\n";'`
+else
+  BUILD="1";
+fi
+echo $BUILD > ../build
 VERSION=`cat package.json | grep '"version":' | awk -F '"'  '{ print $4 }'`
 #CHANGES=`cat CHANGELOG.md | awk -vRS="##" 'NR<=2' ORS="##" | grep -v "##"`
 #tar -czf ~/Projects/Packaging/libjs-twitter-bootstrap/libjs-twitter-bootstrap_$VERSION.orig.tar.gz .
