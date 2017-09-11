@@ -1,7 +1,7 @@
 Debian Package for bootstrap-switch
 ===================================
 
-Debian package for twitter bootstrap4
+Debian package for twitter bootstrap switch http://bootstrapswitch.com/
 
 ## How to install ?
 
