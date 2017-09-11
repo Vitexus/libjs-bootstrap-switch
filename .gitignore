@@ -1,4 +1,5 @@
 /nbproject/private/
-/debian/libjs-twitter-bootstrap-switch.debhelper.log
-/debian/libjs-twitter-bootstrap-switch.substvars
-/debian/libjs-twitter-bootstrap-switch/
+/debian/libjs-bootstrap-switch.debhelper.log
+/debian/libjs-bootstrap-switch.substvars
+/debian/libjs-bootstrap-switch/
+build

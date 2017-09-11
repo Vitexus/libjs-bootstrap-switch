@@ -1,5 +1,5 @@
 Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=143
-Upstream-Name: Twitter-Bootstrap
+Upstream-Name: Bootstrap
 Upstream-Source: http://twitter.github.com/bootstrap/assets/bootstrap.zip
 
 Files: *
@@ -22,7 +22,7 @@ License: MIT
   This software consists of voluntary contributions made by many
   individuals (AUTHORS.txt, http://ui.jquery.com/about) For exact
   contribution history, see the revision history and logs, available
-  at http://twitter-bootstrap.googlecode.com/svn/
+  at http://bootstrap.googlecode.com/svn/
 
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the

@@ -1,2 +1,2 @@
-bootstrap-switch/dist/js/*.js                 /usr/share/twitter-bootstrap/js
-bootstrap-switch/dist/css/bootstrap3/*.css    /usr/share/twitter-bootstrap/css
+bootstrap-switch/dist/js/*.js                 /usr/share/bootstrap/js
+bootstrap-switch/dist/css/bootstrap3/*.css    /usr/share/bootstrap/css
