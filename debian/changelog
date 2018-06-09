@@ -1,6 +1,9 @@
-libjs-bootstrap-switch (3.3.4-1) UNRELEASED; urgency=low
+libjs-bootstrap-switch (3.3.4-10) UNRELEASED; urgency=low
 
   [ Vítězslav Vitex Dvořák ]
   * Update to 3.3.4
 
- -- Vítězslav Dvořák <info@vitexsoftware.cz>  Tue, 12 Sep 2017 00:02:18 +0200
+  [ Vítězslav Dvořák ]
+  * Update for debian9
+
+ -- Vítězslav Dvořák <vitex@develoid.jinonice.czf>  Sat, 09 Jun 2018 10:49:56 +0200

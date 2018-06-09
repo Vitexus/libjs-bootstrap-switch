@@ -4,7 +4,7 @@ Standards-Version: 3.8.4
 Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
 Uploaders: Vitex <vitex@hippy.cz>
 Priority: optional
-Homepage: http://www.bootstrap-switch.org/
+Homepage: https://github.com/Vitexus/libjs-bootstrap-switch
 
 Package: libjs-bootstrap-switch
 Architecture: all

@@ -1,2 +1,2 @@
-bootstrap-switch/dist/js/*.js                 /usr/share/bootstrap/js
-bootstrap-switch/dist/css/bootstrap3/*.css    /usr/share/bootstrap/css
+bootstrap-switch/dist/js/*.js                 /usr/share/javascript/bootstrap/js
+bootstrap-switch/dist/css/bootstrap3/*.css    /usr/share/javascript/bootstrap/css
