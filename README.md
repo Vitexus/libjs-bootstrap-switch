@@ -1,3 +1,5 @@
+![Preview](https://raw.githubusercontent.com/Vitexus/libjs-bootstrap-switch/master/project-logo.png)
+
 Debian Package for bootstrap-switch
 ===================================
 
