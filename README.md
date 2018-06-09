@@ -1,7 +1,9 @@
 Debian Package for bootstrap-switch
 ===================================
 
-Debian package for twitter bootstrap switch http://bootstrapswitch.com/
+Debian package for twitter bootstrap switch http://bootstrapswitch.site/
+
+
 
 ## How to install ?
 
@@ -12,8 +14,8 @@ Debian package for twitter bootstrap switch http://bootstrapswitch.com/
 
 ## How to use ?
 
-    <link href="/javascript/twitter-bootstrap/css/bootstrap-switch.css" rel="stylesheet" type="text/css" media="screen" />
-    <script src="/javascript/twitter-bootstrap/js/bootstrap-switch.js"></script>
+    <link href="/javascript/bootstrap/css/bootstrap-switch.css" rel="stylesheet" type="text/css" media="screen" />
+    <script src="/javascript/bootstrap/js/bootstrap-switch.js"></script>
 
 >>You can also use minified versions bootstrap-switch.min.js bootstrap-switch.min.css
 
