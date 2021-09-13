@@ -8,4 +8,3 @@ else
     git pull
 fi
 
-bower install
