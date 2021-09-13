@@ -4,5 +4,7 @@
 	dh $@
 
 override_dh_prep:
-	./fresh.sh
+	rm -rf bootstrap-switch-master master.zip
+	wget https://github.com/Bttstrp/bootstrap-switch/archive/refs/heads/master.zip
+	unzip master.zip
 	dh_prep
