@@ -3,3 +3,6 @@
 %:
 	dh $@
 
+override_dh_prep:
+	./fresh.sh
+	dh_prep
